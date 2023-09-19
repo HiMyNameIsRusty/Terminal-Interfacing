@@ -1,2 +1,4 @@
 # Terminal-Interfacing
-A Library for effectively interfacing with the terminal
+A Library for effectively interfacing with the terminal.
+
+hello!
